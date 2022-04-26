@@ -1,24 +1,24 @@
 [
     {
-        "title":"เริ่มต้นทำความรู้จัก อุปกรณ์ถ่ายภาพ",
-        "subtitle":"บทนำ 1",
-        "image_url":"https://raw.githubusercontent.com/wamphukhom/datajson/main/camera-1130731_960_720.jpg",
+        "title":"พระสมเด็จ วัดระฆังฯ พิมพ์ใหญ่",
+        "subtitle":"5,000,000.00",
+        "image_url":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/001.jpg",
         "detail":"รายละเอียดส่วนที่ 1 ลองแก้ไข refresh",
         "image_dtl":"https://bsamulet.com/product/11638",
         "article":"https://thairath.co.th/business/economics/1794359"
     },
     {
-        "title":"ทักษะเบื้องต้นการถ่ายภาพ",
-        "subtitle":"บทนำ 2",
-        "image_url":"https://raw.githubusercontent.com/wamphukhom/datajson/main/camera-4830248_960_720.jpg",
+        "title":"พระรอด กรุวัดมหาวัน พิมพ์ใหญ่ ลำพูน",
+        "subtitle":"1,000,000.00",
+        "image_url":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/002.jpg",
         "detail":"รายละเอียดส่วนที่ 2",
         "image_dtl":"https://bsamulet.com/product/11891",
         "article":"https://thairath.co.th/business/economics/1794359"
     },
     {
-        "title":"การถ่ายภาพในสถานะการณ์ต่าางๆ",
-        "subtitle":"บทนำ 3",
-        "image_url":"https://raw.githubusercontent.com/wamphukhom/datajson/main/film-1668918_960_720.jpg",
+        "title":"พระซุ้มกอ จ.กำแพงเพชร",
+        "subtitle":"1,000,000.00",
+        "image_url":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/003.jpg",
         "detail":"รายละเอียดส่วนที่ 3",
         "image_dtl":"https://bsamulet.com/product/11729",
         "article":"https://thairath.co.th/business/economics/1794359"
