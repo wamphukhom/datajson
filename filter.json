@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "banner":1,
+        "banner":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/1.png",
         "title":"พระสมเด็จ วัดระฆังฯ พิมพ์ใหญ่",
         "author":"5,000,000",
         "urlImage":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/001.jpg",
@@ -11,7 +11,7 @@
     },
     {
         "id":2,
-        "banner":0,
+        "banner":"0",
         "title":"พระรอด กรุวัดมหาวัน พิมพ์ใหญ่ ลำพูน",
         "author":"1,000,000",
         "urlImage":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/002.jpg",
@@ -21,7 +21,7 @@
     },
     {
         "id":3,
-        "banner":2,
+        "banner":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/2.png",
         "title":"พระซุ้มกอ จ.กำแพงเพชร",
         "author":"1,000,000",
         "urlImage":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/003.jpg",
@@ -31,7 +31,7 @@
     },
     {
         "id":4,
-        "banner":2,
+        "banner":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/1.png",
         "title":"พระผงสุพรรณ",
         "author":"4,500,000",
         "urlImage":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/004.jpg",
@@ -41,7 +41,7 @@
     },
     {
         "id":5,
-        "banner":0,
+        "banner":"0",
         "title":"พระนางพญา",
         "author":"150,000",
         "urlImage":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/005.jpg",
