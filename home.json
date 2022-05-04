@@ -2,6 +2,11 @@
     {
         "head_body":"เช่าพระ FMCameraa",
         "title":"เมนูเด็ด เมนูวันนี้ วันนี้มีอะไรอัพเดท ลดราคาพิเศษเฉพาะวันนี้",
-        "background_body":"xyz"
+        "background_drawer_img":"xyz",
+        "avatar_img":"",
+        "drawer1_img":"",
+        "drawer1":"",
+        "drawer2_img":"",
+        "drawer2":""
     }
 ]
