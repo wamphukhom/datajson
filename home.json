@@ -7,6 +7,7 @@
         "drawer1_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/drawer1.png",
         "drawer1":"รายละเอียดเพิ่มเติม",
         "drawer2_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/drawer2.png",
-        "drawer2":"สินค้าพร้อมจัดส่ง"
+        "drawer2":"สินค้าพร้อมจัดส่ง",
+        "background_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/stadia_mono.png"
     }
 ]
