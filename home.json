@@ -4,10 +4,12 @@
         "title":"เมนูเด็ด เมนูวันนี้ วันนี้มีอะไรอัพเดท ลดราคาพิเศษเฉพาะวันนี้",
         "background_drawer_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/background.jpg",
         "avatar_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/icon.jpg",
+        "drawer_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/drawer.png",
+        "drawer":"ผลงาน",
         "drawer1_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/drawer1.png",
         "drawer1":"รายละเอียดเพิ่มเติม",
         "drawer2_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/drawer2.png",
-        "drawer2":"สินค้าพร้อมจัดส่ง",
+        "drawer2":"เว็ปแผนที่",
         "background_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/stadia_mono.png"
     }
 ]
