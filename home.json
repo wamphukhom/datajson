@@ -2,7 +2,7 @@
     {
         "head_body":"เช่าพระ FMCamera",
         "title":"เมนูเด็ด เมนูวันนี้ วันนี้มีอะไรอัพเดท ลดราคาพิเศษเฉพาะวันนี้",
-        "background_drawer_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/background.jpg",
+        "background_drawer_img":"0",
         "avatar_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/icon.png",
         "drawer_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/drawer.png",
         "drawer":"ผลงาน",
