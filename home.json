@@ -1,15 +1,15 @@
 [
     {
-        "head_body":"เช่าพระ FMCamera",
-        "title":"เมนูเด็ด เมนูวันนี้ วันนี้มีอะไรอัพเดท ลดราคาพิเศษเฉพาะวันนี้",
+        "head_body":"ร้านจุดชวนชิม",
+        "title":"ร้านเราดีมีขนมหวาน มีขนมปัง เค้ก ให้ท่านได้รับประทาน อร่อย",
         "background_drawer_img":"0",
         "avatar_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/icon.png",
-        "drawer_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/drawer.png",
+        "drawer_img":"0",
         "drawer":"ผลงาน",
         "drawer1_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/drawer1.png",
-        "drawer1":"รายละเอียดเพิ่มเติม",
+        "drawer1":"เกี่ยวกับเรา",
         "drawer2_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/drawer2.png",
-        "drawer2":"เว็ปแผนที่",
-        "background_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/stadia_mono.png"
+        "drawer2":"เว็ปเรา",
+        "background_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/background.png"
     }
 ]
