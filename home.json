@@ -9,7 +9,9 @@
         "drawer1_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/abount.png",
         "drawer1":"เกี่ยวกับเรา",
         "drawer2_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/drawer2.png",
-        "drawer2":"เว็ปเรา",
+        "drawer2":"หน้าเว็ป",
+        "drawer3_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/member.png",
+        "drawer3":"ดูแต้ม",
         "background_img":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/home/background.png"
     }
 ]
