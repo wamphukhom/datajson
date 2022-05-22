@@ -53,5 +53,16 @@
         "detail1":"น้ำผลไม้สกัดเย็น ตามฤดูกาล สกัดแท้ 100%",
         "detail2":"ราคา : 60",
         "detail3":"youtube : youtube"
+    },
+    {
+        "id":6,
+        "banner":"0",
+        "title":"Minimal cake",
+        "author":"เค้กมะพร้าวตามสั่ง",
+        "urlImage1":"https://raw.githubusercontent.com/wamphukhom/datajson/main/picture/product/minimalcake.jpeg",
+        "urlImage2":"0",
+        "detail1":"เค้กHomemade สไตล์  Minimal ตามสั่่ง ได้ทั้งเค้กมะพร้าว เค้กวนิลานมสด เค้กช็อคโกแลต ครีมหวานน้อยละมุนละไม",
+        "detail2":"ราคา : 180",
+        "detail3":"youtube : youtube"
     }
 ]
